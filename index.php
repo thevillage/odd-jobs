@@ -10,7 +10,7 @@ include('includes/header.php');
             <div class="col-sm-4">
                 <h3>Odd Jobs</h3>
                 <p>
-                    A new way to interact with your community
+                    Coming soon! Sign up to get updates from our team.
                 </p>
                 <div class="signup-form">
                     <form>
@@ -65,50 +65,46 @@ include('includes/header.php');
     <div class="container">
         <h3>How does it work?</h3>
         <p class="lead">
-            lorem ipsum dolor ipset
-            lorem ipsum dolor ipset
-            lorem ipsum dolor ipset<br/>
+            Need work done? Need work? We provide a network to communicate with others in your community. <br/>
             <a href="TODO">Full list here</a>
         </p>
         <div class="row plans">
             <div class="col-sm-4">
                 <div class="plan">
-                    <div class="title">Step 1</div>
-                    <div class="price">Enter Details</div>
+                    <div class="title">Looking for work?</div>
+                    <!--<div class="price">Enter Details</div>-->
                     <div class="description">
-                        lorem ipsum dolor ipset <br />how much per person,
-                        lorem ipsum dolor ipset<br>
-                        Plenty of options for customization!<br>
-
+                        Find jobs<br/>
+                        Build your reputation<br/>
+                        Help your community<br/>
+                        Meet people<br/>
                     </div>
-                    <a class="btn disabled" href="#">Your Current Plan</a>
+                    <a class="btn disabled" href="#">I want to find work!</a>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="plan">
-                    <div class="title">Step 2</div>
-                    <div class="price">Pay</div>
+                    <div class="title">Need work done?</div>
+                    <!--<div class="price">Pay</div>-->
                     <div class="description">
-                       lorem ipsum dolor ipset<br>
-                       lorem ipsum dolor ipsetf their choice!<br>
-                        <strong>Accepted methods <a href="TODO">here</a></strong><br>
+                        Need a painting done? Your lawn mowed? Learn a new language?<br/>
+                        Post up a job<br/>
+                        Find people and businesses in the community who can help<br/>
                     </div>
-                    <a class="btn btn-primary" href="#">Change to this Plan</a>
+                    <a class="btn btn-primary" href="#">Post a job!</a>
 
                     <!--<div class="ribbon">NEW</div>-->
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="plan">
-                    <div class="title">Step 3</div>
-                    <div class="price">lorem ipsum dolor ipset</div>
+                    <div class="title">Local Business?</div>
+                    <!--<div class="price">lorem ipsum dolor ipset</div>-->
                     <div class="description">
-                        10,000 messages<br>
-                        <b>unlimited</b> data<br>
-                        <b>unlimited</b> users<br>
-                        first 100 day free
+                        Click below to certify your business for our users<br/>
+                        We'll connect you with prospective clients needing your services<br/>
                     </div>
-                    <a class="btn btn-primary" href="#">Change to this Plan</a>
+                    <a class="btn btn-primary" href="#">Certify my business</a>
                 </div>
             </div>
         </div>

@@ -35,6 +35,9 @@
         </div>
         <div class="additional-links">
             Be sure to take a look to our <a href="#">Terms of Use</a> and <a href="#">Privacy Policy</a>
+            <div class="copyright">
+                &#169; Village Helper, LLC
+            </div>
         </div>
     </div>
 </footer>
